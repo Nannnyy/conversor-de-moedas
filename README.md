@@ -1,22 +1,33 @@
-<<<<<<< HEAD
-## Getting Started
+<h1 align="left">Conversor de Moedas</h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+###
 
-## Folder Structure
+<p align="left">Este projeto é um conversor de moedas por pares, que utiliza a API ExchangeRateAPI para obter taxas de câmbio atualizadas.</p>
 
-The workspace contains two folders by default, where:
+###
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+<h2 align="left">Funcionalidades</h2>
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+###
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+<p align="left">- O menu de conversão apresenta 6 opções de pares de moedas disponíveis.<br>- Após selecionar uma das opções, o programa:<br>1. Exibe a taxa de conversão correspondente.<br>2. Calcula e imprime o valor convertido com base na entrada fornecida pelo usuário.</p>
 
-## Dependency Management
+###
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
-# conversor-de-moedas
->>>>>>> 371a4119066f397eedca3964e1bf9e62a53d9b1c
+<h2 align="left">Tecnologias</h2>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
+
+###
